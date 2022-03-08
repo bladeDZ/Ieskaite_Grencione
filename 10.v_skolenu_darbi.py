@@ -7,7 +7,7 @@
 #3 Dūrēja Annemarija
 
 #4 Dzērve Artūrs
-
+print(sin(radians(30)+fmod(13,2)))
 #5 Greilihs Dīvs Rihards
 
 #6 Lange Rūdolfs Toms
